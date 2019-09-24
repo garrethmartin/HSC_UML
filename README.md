@@ -1,11 +1,5 @@
 # HSC_UML
 
-### Info
-
-**Email**: Garreth Martin (garrethmartin AT arizona DOT edu)
-
-**Reference**: Martin 2019b -- [arXiv:...]{https://address_temp}
-
 ### Update history
 
 *September 2019*: - HSC DR1 UDEEP catalogue added
@@ -15,3 +9,31 @@
 
 ***
 
+### Reference: [***Martin 2019b***](https://address_temp "arXiv...")
+
+### Contact: [garrethmartin@arizona.edu](mailto:garrethmartin@arizona.edu "email")
+
+***
+
+### Purpose:
+Clusters objects found in a list of astronomical images by their visual similarity. Objects are sorted into *k* groups and a catalogue containing object centroids, group number, size in pixels and silhouette score is output.
+
+### Prerequisites:
+* numpy
+* scipy
+* astropy
+* configobj
+* sklearn
+* joblib
+
+* [dotnetcore SDK](https://dotnet.microsoft.com/download "dotnetcore")
+
+### Installation:
+    
+    sudo python install.py
+
+### Usage:
+
+#### Using the built-in script:
+
+#### Importing the package
