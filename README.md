@@ -29,6 +29,8 @@ Clusters objects found in a list of astronomical images by their visual similari
 * [dotnetcore SDK](https://dotnet.microsoft.com/download "dotnetcore")
 
 ### Installation:
+
+First install dotnetcore SDK, then run:
     
     sudo python install.py
 
