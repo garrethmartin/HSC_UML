@@ -1,4 +1,4 @@
-# HSC_UML
+# ***README*** for `classify.py` / `graph_clustering`
 
 ### Update history
 
