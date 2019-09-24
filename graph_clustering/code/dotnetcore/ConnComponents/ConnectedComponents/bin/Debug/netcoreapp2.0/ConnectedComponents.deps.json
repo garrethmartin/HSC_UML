@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "e98579be2ebe5d19470f886bff8f1a78afdc6e98"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConnectedComponents/1.0.0": {
+        "dependencies": {
+          "Config": "1.0.0",
+          "CsvParser": "1.0.0",
+          "NearestNeighbourLib": "1.0.0",
+          "SampleHandlerLib": "1.0.0",
+          "System.Drawing.Common": "4.5.0-preview1-26216-02"
+        },
+        "runtime": {
+          "ConnectedComponents.dll": {}
+        }
+      },
+      "System.Drawing.Common/4.5.0-preview1-26216-02": {
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "Config/1.0.0": {
+        "runtime": {
+          "Config.dll": {}
+        }
+      },
+      "CsvParser/1.0.0": {
+        "runtime": {
+          "CsvParser.dll": {}
+        }
+      },
+      "NearestNeighbourLib/1.0.0": {
+        "runtime": {
+          "NearestNeighbourLib.dll": {}
+        }
+      },
+      "SampleHandlerLib/1.0.0": {
+        "runtime": {
+          "SampleHandlerLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConnectedComponents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Drawing.Common/4.5.0-preview1-26216-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+hNFjaDH/ATpPC37RTffgDUwgCWgWur7pxn9D5S5kDLL+7gfHS/cITZvIeOj3W6r8DzMNRzMOYxRSHu6DYjKcg==",
+      "path": "system.drawing.common/4.5.0-preview1-26216-02",
+      "hashPath": "system.drawing.common.4.5.0-preview1-26216-02.nupkg.sha512"
+    },
+    "Config/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NearestNeighbourLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SampleHandlerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

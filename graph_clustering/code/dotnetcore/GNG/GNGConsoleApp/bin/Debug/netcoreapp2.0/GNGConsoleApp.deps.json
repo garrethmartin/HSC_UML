@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "GNGConsoleApp/1.0.0": {
+        "dependencies": {
+          "Config": "1.0.0",
+          "CsvParser": "1.0.0",
+          "GrowingNeuralGas": "1.0.0",
+          "NumpyBinFiles": "1.0.0"
+        },
+        "runtime": {
+          "GNGConsoleApp.dll": {}
+        }
+      },
+      "Config/1.0.0": {
+        "runtime": {
+          "Config.dll": {}
+        }
+      },
+      "CsvParser/1.0.0": {
+        "runtime": {
+          "CsvParser.dll": {}
+        }
+      },
+      "GrowingNeuralGas/1.0.0": {
+        "dependencies": {
+          "CsvParser": "1.0.0"
+        },
+        "runtime": {
+          "GrowingNeuralGas.dll": {}
+        }
+      },
+      "NumpyBinFiles/1.0.0": {
+        "runtime": {
+          "NumpyBinFiles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GNGConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Config/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GrowingNeuralGas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NumpyBinFiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

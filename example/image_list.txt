@@ -1,0 +1,12 @@
+calexp-HSC-G-8767-3-2.fits
+calexp-HSC-R-8767-3-2.fits
+calexp-HSC-I-8767-3-2.fits
+calexp-HSC-G-8767-4-2.fits
+calexp-HSC-R-8767-4-2.fits
+calexp-HSC-I-8767-4-2.fits
+calexp-HSC-G-8767-5-2.fits
+calexp-HSC-R-8767-5-2.fits
+calexp-HSC-I-8767-5-2.fits
+calexp-HSC-G-8767-6-2.fits
+calexp-HSC-R-8767-6-2.fits
+calexp-HSC-I-8767-6-2.fits

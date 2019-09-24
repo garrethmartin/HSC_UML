@@ -1,0 +1,11 @@
+E:\candels\code\core\GNG\GrowingNeuralGas\obj\Debug\netcoreapp2.0\GrowingNeuralGas.csproj.CoreCompileInputs.cache
+E:\candels\code\core\GNG\GrowingNeuralGas\obj\Debug\netcoreapp2.0\GrowingNeuralGas.AssemblyInfoInputs.cache
+E:\candels\code\core\GNG\GrowingNeuralGas\obj\Debug\netcoreapp2.0\GrowingNeuralGas.AssemblyInfo.cs
+E:\candels\code\core\GNG\GrowingNeuralGas\bin\Debug\netcoreapp2.0\GrowingNeuralGas.deps.json
+E:\candels\code\core\GNG\GrowingNeuralGas\bin\Debug\netcoreapp2.0\GrowingNeuralGas.dll
+E:\candels\code\core\GNG\GrowingNeuralGas\bin\Debug\netcoreapp2.0\GrowingNeuralGas.pdb
+E:\candels\code\core\GNG\GrowingNeuralGas\bin\Debug\netcoreapp2.0\CsvParser.dll
+E:\candels\code\core\GNG\GrowingNeuralGas\bin\Debug\netcoreapp2.0\CsvParser.pdb
+E:\candels\code\core\GNG\GrowingNeuralGas\obj\Debug\netcoreapp2.0\GrowingNeuralGas.csproj.CopyComplete
+E:\candels\code\core\GNG\GrowingNeuralGas\obj\Debug\netcoreapp2.0\GrowingNeuralGas.dll
+E:\candels\code\core\GNG\GrowingNeuralGas\obj\Debug\netcoreapp2.0\GrowingNeuralGas.pdb

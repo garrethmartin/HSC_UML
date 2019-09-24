@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AgglomerativeClustering": {
+      "commandName": "Project",
+      "commandLineArgs": "e:/candels/stripe82/config/auto_agglom_config --root_folder e:/candels/stripe82/ --num_powerspectrum_features 2 --model_folder model0/"
+    }
+  }
+}

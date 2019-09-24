@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Config\Config.csproj" />
+    <ProjectReference Include="..\CSVParser\CSVParser.csproj" />
+    <ProjectReference Include="..\AgglomLib\AgglomLib.csproj" />
+    <ProjectReference Include="..\NearestNeighbourLib\NearestNeighbourLib.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "AgglomerativeClustering/1.0.0": {
+        "dependencies": {
+          "AgglomLib": "1.0.0",
+          "CSVParser": "1.0.0",
+          "Config": "1.0.0",
+          "NearestNeighbourLib": "1.0.0"
+        },
+        "runtime": {
+          "AgglomerativeClustering.dll": {}
+        }
+      },
+      "AgglomLib/1.0.0": {
+        "dependencies": {
+          "CSVParser": "1.0.0",
+          "Config": "1.0.0"
+        },
+        "runtime": {
+          "AgglomLib.dll": {}
+        }
+      },
+      "Config/1.0.0": {
+        "runtime": {
+          "Config.dll": {}
+        }
+      },
+      "CSVParser/1.0.0": {
+        "runtime": {
+          "CSVParser.dll": {}
+        }
+      },
+      "NearestNeighbourLib/1.0.0": {
+        "runtime": {
+          "NearestNeighbourLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgglomerativeClustering/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AgglomLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Config/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSVParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NearestNeighbourLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

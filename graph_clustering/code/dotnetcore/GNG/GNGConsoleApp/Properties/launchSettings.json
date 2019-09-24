@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GNGConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "e:\\candels\\stripe82\\config\\atlas_gng_config --input_folder e:\\candels\\stripe82\\ --test_name ps --npy false --batch_size 2000 --online false --sky_areas e:\\candels\\stripe82\\model_folders.txt --outputfolder e:\\candels\\stripe82\\model0\\"
+    }
+  }
+}

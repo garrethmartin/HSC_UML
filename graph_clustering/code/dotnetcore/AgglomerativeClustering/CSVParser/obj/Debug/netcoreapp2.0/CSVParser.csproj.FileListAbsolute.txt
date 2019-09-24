@@ -1,0 +1,8 @@
+E:\candels\code\core\AgglomerativeClustering\CSVParser\bin\Debug\netcoreapp2.0\CSVParser.deps.json
+E:\candels\code\core\AgglomerativeClustering\CSVParser\bin\Debug\netcoreapp2.0\CSVParser.dll
+E:\candels\code\core\AgglomerativeClustering\CSVParser\bin\Debug\netcoreapp2.0\CSVParser.pdb
+E:\candels\code\core\AgglomerativeClustering\CSVParser\obj\Debug\netcoreapp2.0\CSVParser.csproj.CoreCompileInputs.cache
+E:\candels\code\core\AgglomerativeClustering\CSVParser\obj\Debug\netcoreapp2.0\CSVParser.AssemblyInfoInputs.cache
+E:\candels\code\core\AgglomerativeClustering\CSVParser\obj\Debug\netcoreapp2.0\CSVParser.AssemblyInfo.cs
+E:\candels\code\core\AgglomerativeClustering\CSVParser\obj\Debug\netcoreapp2.0\CSVParser.dll
+E:\candels\code\core\AgglomerativeClustering\CSVParser\obj\Debug\netcoreapp2.0\CSVParser.pdb

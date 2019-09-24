@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "AgglomLib/1.0.0": {
+        "dependencies": {
+          "CSVParser": "1.0.0",
+          "Config": "1.0.0"
+        },
+        "runtime": {
+          "AgglomLib.dll": {}
+        }
+      },
+      "Config/1.0.0": {
+        "runtime": {
+          "Config.dll": {}
+        }
+      },
+      "CSVParser/1.0.0": {
+        "runtime": {
+          "CSVParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgglomLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Config/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSVParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

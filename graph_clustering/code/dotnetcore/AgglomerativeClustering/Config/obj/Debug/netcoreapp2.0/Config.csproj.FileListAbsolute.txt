@@ -1,0 +1,8 @@
+E:\candels\code\core\AgglomerativeClustering\Config\bin\Debug\netcoreapp2.0\Config.deps.json
+E:\candels\code\core\AgglomerativeClustering\Config\bin\Debug\netcoreapp2.0\Config.dll
+E:\candels\code\core\AgglomerativeClustering\Config\bin\Debug\netcoreapp2.0\Config.pdb
+E:\candels\code\core\AgglomerativeClustering\Config\obj\Debug\netcoreapp2.0\Config.csproj.CoreCompileInputs.cache
+E:\candels\code\core\AgglomerativeClustering\Config\obj\Debug\netcoreapp2.0\Config.AssemblyInfoInputs.cache
+E:\candels\code\core\AgglomerativeClustering\Config\obj\Debug\netcoreapp2.0\Config.AssemblyInfo.cs
+E:\candels\code\core\AgglomerativeClustering\Config\obj\Debug\netcoreapp2.0\Config.dll
+E:\candels\code\core\AgglomerativeClustering\Config\obj\Debug\netcoreapp2.0\Config.pdb

@@ -1,0 +1,13 @@
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\bin\Debug\netcoreapp2.0\AgglomLib.deps.json
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\bin\Debug\netcoreapp2.0\AgglomLib.dll
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\bin\Debug\netcoreapp2.0\AgglomLib.pdb
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\bin\Debug\netcoreapp2.0\Config.dll
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\bin\Debug\netcoreapp2.0\CSVParser.dll
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\bin\Debug\netcoreapp2.0\Config.pdb
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\bin\Debug\netcoreapp2.0\CSVParser.pdb
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\obj\Debug\netcoreapp2.0\AgglomLib.csproj.CoreCompileInputs.cache
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\obj\Debug\netcoreapp2.0\AgglomLib.AssemblyInfoInputs.cache
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\obj\Debug\netcoreapp2.0\AgglomLib.AssemblyInfo.cs
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\obj\Debug\netcoreapp2.0\AgglomLib.csproj.CopyComplete
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\obj\Debug\netcoreapp2.0\AgglomLib.dll
+E:\candels\code\core\AgglomerativeClustering\AgglomLib\obj\Debug\netcoreapp2.0\AgglomLib.pdb

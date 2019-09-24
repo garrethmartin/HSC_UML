@@ -1,0 +1,8 @@
+E:\candels\code\core\AgglomerativeClustering\NearestNeighbourLib\bin\Debug\netcoreapp2.0\NearestNeighbourLib.deps.json
+E:\candels\code\core\AgglomerativeClustering\NearestNeighbourLib\bin\Debug\netcoreapp2.0\NearestNeighbourLib.dll
+E:\candels\code\core\AgglomerativeClustering\NearestNeighbourLib\bin\Debug\netcoreapp2.0\NearestNeighbourLib.pdb
+E:\candels\code\core\AgglomerativeClustering\NearestNeighbourLib\obj\Debug\netcoreapp2.0\NearestNeighbourLib.csproj.CoreCompileInputs.cache
+E:\candels\code\core\AgglomerativeClustering\NearestNeighbourLib\obj\Debug\netcoreapp2.0\NearestNeighbourLib.AssemblyInfoInputs.cache
+E:\candels\code\core\AgglomerativeClustering\NearestNeighbourLib\obj\Debug\netcoreapp2.0\NearestNeighbourLib.AssemblyInfo.cs
+E:\candels\code\core\AgglomerativeClustering\NearestNeighbourLib\obj\Debug\netcoreapp2.0\NearestNeighbourLib.dll
+E:\candels\code\core\AgglomerativeClustering\NearestNeighbourLib\obj\Debug\netcoreapp2.0\NearestNeighbourLib.pdb

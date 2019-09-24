@@ -1,0 +1,8 @@
+E:\candels\code\core\GNG\NumpyBinFiles\bin\Debug\netcoreapp2.0\NumpyBinFiles.deps.json
+E:\candels\code\core\GNG\NumpyBinFiles\bin\Debug\netcoreapp2.0\NumpyBinFiles.dll
+E:\candels\code\core\GNG\NumpyBinFiles\bin\Debug\netcoreapp2.0\NumpyBinFiles.pdb
+E:\candels\code\core\GNG\NumpyBinFiles\obj\Debug\netcoreapp2.0\NumpyBinFiles.csproj.CoreCompileInputs.cache
+E:\candels\code\core\GNG\NumpyBinFiles\obj\Debug\netcoreapp2.0\NumpyBinFiles.AssemblyInfoInputs.cache
+E:\candels\code\core\GNG\NumpyBinFiles\obj\Debug\netcoreapp2.0\NumpyBinFiles.AssemblyInfo.cs
+E:\candels\code\core\GNG\NumpyBinFiles\obj\Debug\netcoreapp2.0\NumpyBinFiles.dll
+E:\candels\code\core\GNG\NumpyBinFiles\obj\Debug\netcoreapp2.0\NumpyBinFiles.pdb

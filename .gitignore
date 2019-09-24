@@ -107,5 +107,9 @@ venv.bak/
 *~
 
 # example code
-/images
-
+example/images/*
+example/HSC_example/*
+example/graph_clustering/*
+example/images
+example/HSC_example
+example/graph_clustering

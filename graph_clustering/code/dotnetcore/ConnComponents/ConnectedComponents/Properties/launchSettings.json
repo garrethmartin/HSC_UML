@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConnectedComponents": {
+      "commandName": "Project",
+      "commandLineArgs": "e:\\candels\\stripe82\\config\\auto_conncomps.txt --sky_areas sky_areas_0zzz.txt"
+    }
+  }
+}

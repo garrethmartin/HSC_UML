@@ -1,0 +1,28 @@
+﻿            long offset = 0x00000000; // 256 megabytes
+            long length = 0x00000100; // 512 megabytes
+
+            // Create the memory-mapped file.
+            using (var mmf = MemoryMappedFile.CreateFromFile(@"n:\atlas\bovw\dat.bin", FileMode.Open, "ImgA"))
+            {
+                // Create a random access view, from the 256th megabyte (the offset)
+                // to the 768th megabyte (the offset plus length).
+                using (var accessor = mmf.CreateViewAccessor(offset, length))
+                {
+                    int colorSize = Marshal.SizeOf(typeof(float));
+                    float color;
+
+                    // Make changes to the view.
+                    for (long i = 0; i < length; i += 4)
+                    {
+                        byte b1 = accessor.ReadByte(i); //, out color
+                        byte b2 = accessor.ReadByte(i+1); //, out color
+                        byte b3 = accessor.ReadByte(i+2); //, out color
+                        byte b4 = accessor.ReadByte(i+3); //, out color
+                        byte[] tf = new byte[] { b1, b2, b3, b4 };
+                        float myFloat = System.BitConverter.ToSingle(tf, 0);
+                        //color.Brighten(10);
+
+                        //accessor.Write(i, ref color);
+                    }
+                }
+            }

@@ -1,0 +1,8 @@
+E:\candels\code\core\GNG\CsvParser\bin\Debug\netcoreapp2.0\CsvParser.deps.json
+E:\candels\code\core\GNG\CsvParser\bin\Debug\netcoreapp2.0\CsvParser.dll
+E:\candels\code\core\GNG\CsvParser\bin\Debug\netcoreapp2.0\CsvParser.pdb
+E:\candels\code\core\GNG\CsvParser\obj\Debug\netcoreapp2.0\CsvParser.csproj.CoreCompileInputs.cache
+E:\candels\code\core\GNG\CsvParser\obj\Debug\netcoreapp2.0\CsvParser.AssemblyInfoInputs.cache
+E:\candels\code\core\GNG\CsvParser\obj\Debug\netcoreapp2.0\CsvParser.AssemblyInfo.cs
+E:\candels\code\core\GNG\CsvParser\obj\Debug\netcoreapp2.0\CsvParser.dll
+E:\candels\code\core\GNG\CsvParser\obj\Debug\netcoreapp2.0\CsvParser.pdb

@@ -1,0 +1,15 @@
+#input_folder=./
+samples_file_name=samples.hd5
+mean_normalize=false
+zscore_normalize=true
+metric=1
+output_log=true
+write_intermediate=false
+quantisation_error=false
+log_samples=true
+multiple_sky_areas=true
+dataspaceName=/entry/samples
+#max_nodes=2000
+#num_threads=6
+#num_iterations=10
+

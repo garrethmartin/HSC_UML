@@ -1,0 +1,9 @@
+
+INDEX=0
+WINDOW_SIZE=6
+MAX_NODES=2500
+BATCH_SIZE=10000
+
+./run_extract.sh $INDEX ps $WINDOW_SIZE
+./run_gng.sh $MAX_NODES ps $BATCH_SIZE $INDEX
+./run_agg.sh $INDEX
