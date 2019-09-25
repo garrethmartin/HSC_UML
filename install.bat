@@ -10,7 +10,7 @@ dotnet build --configuration Release || goto :error
 cd ..\AgglomerativeClustering
 dotnet build --configuration Release || goto :error
 
-cd ..\dotnetcore\GNG
+cd ..\GNG
 dotnet build --configuration Release || goto :error
 
 cd ..\ConnComponents
