@@ -25,14 +25,17 @@ Clusters objects found in a list of astronomical images by their visual similari
 * configobj
 * sklearn
 * joblib
+* matplotlib
 
 * [dotnetcore SDK](https://dotnet.microsoft.com/download "dotnetcore")
 
-### Installation:
+### Installation on Python 2.7 (3 not tested):
 
-First install dotnetcore SDK, then run:
-    
-    sudo python install.py
+`pip install galaxy_graph_clustering`
+
+or build from source
+
+`python setup.py install galaxy_graph_clustering`
 
 ### Usage:
 
