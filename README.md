@@ -31,11 +31,11 @@ Clusters objects found in a list of astronomical images by their visual similari
 
 ### Installation on Python 2.7 (3 not tested):
 
-`pip install galaxy_graph_clustering`
+`pip install galaxy_graph`
 
 or build from source
 
-`python setup.py install galaxy_graph_clustering`
+`python setup.py install galaxy_graph`
 
 ### Usage:
 
