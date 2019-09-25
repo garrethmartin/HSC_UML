@@ -4,6 +4,10 @@ import sys
 from shutil import rmtree
 
 from setuptools import find_packages, setup, Command
+from setuptools.command.develop import develop
+from setuptools.command.install import install
+from subprocess import check_call
+import platform
 
 # Package meta-data.
 NAME = 'graph_clustering'
@@ -33,6 +37,23 @@ with io.open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
 about = {}
 with open(os.path.join(here, NAME, '__version__.py')) as f:
     exec(f.read(), about)
+
+if platform.system() == 'Windows':
+    c_install_command = "install.bat"
+else:
+    c_install_command = "./install.sh"
+
+class PostDevelopCommand(develop):
+    """Post-installation for development mode."""
+    def run(self):
+        check_call(c_install_command)
+        develop.run(self)
+
+class PostInstallCommand(install):
+    """Post-installation for installation mode."""
+    def run(self):
+        check_call(c_install_command)
+        install.run(self)
 
 
 class UploadCommand(Command):
@@ -78,14 +99,14 @@ setup(
     author_email=EMAIL,
     url=URL,
     packages=find_packages(exclude=('tests',)),
-    scripts=['scripts/tabulate_progenitor_probability.py'],
+    scripts=['scripts/classify.py'],
     #If your package is a single module, use this instead of 'packages':
     # py_modules=['mypackage'],
 
     entry_points={},
     install_requires=REQUIRED,
     include_package_data=True,
-    package_data={'': ['*.txt', '*.dat', 'progenitor_probability/*.txt', 'progenitor_probability/*.dat']},
+    package_data={'': []},
     license='MIT',
     classifiers=[
         # Trove classifiers
@@ -93,18 +114,13 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.3',
-        'Programming Language :: Python :: 3.4',
-        'Programming Language :: Python :: 3.5',
-        'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: Implementation :: PyPy'
     ],
     # $ setup.py publish support.
     cmdclass={
         'upload': UploadCommand,
+        'develop': PostDevelopCommand,  # pip silences the success output of these commands.
+        'install': PostInstallCommand,  # pip silences the success output of these commands.
     },
 )
