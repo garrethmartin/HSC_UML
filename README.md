@@ -9,7 +9,7 @@
 
 ***
 
-### Reference: [***Martin 2019b***](https://address_temp "arXiv...")
+### Reference: [***Martin 2019b***](https://arxiv.org/abs/1909.10537 "arXiv")
 
 ### Contact: [garrethmartin@arizona.edu](mailto:garrethmartin@arizona.edu "email")
 
