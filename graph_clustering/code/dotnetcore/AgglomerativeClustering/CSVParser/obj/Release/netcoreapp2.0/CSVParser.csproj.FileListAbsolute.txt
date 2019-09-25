@@ -38,3 +38,11 @@
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/obj/Release/netcoreapp2.0/CSVParser.AssemblyInfo.cs
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/obj/Release/netcoreapp2.0/CSVParser.dll
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/obj/Release/netcoreapp2.0/CSVParser.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/bin/Release/netcoreapp2.0/CSVParser.deps.json
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/bin/Release/netcoreapp2.0/CSVParser.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/bin/Release/netcoreapp2.0/CSVParser.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/obj/Release/netcoreapp2.0/CSVParser.csproj.CoreCompileInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/obj/Release/netcoreapp2.0/CSVParser.AssemblyInfoInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/obj/Release/netcoreapp2.0/CSVParser.AssemblyInfo.cs
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/obj/Release/netcoreapp2.0/CSVParser.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/CSVParser/obj/Release/netcoreapp2.0/CSVParser.pdb

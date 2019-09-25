@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/CsvParser/CsvParser.csproj",
+      "projectUniqueName": "/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/CsvParser/CsvParser.csproj",
       "projectName": "CsvParser",
-      "projectPath": "/home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/CsvParser/CsvParser.csproj",
+      "projectPath": "/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/CsvParser/CsvParser.csproj",
       "packagesPath": "/home/garreth/.nuget/packages/",
-      "outputPath": "/home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/CsvParser/obj/",
+      "outputPath": "/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/CsvParser/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

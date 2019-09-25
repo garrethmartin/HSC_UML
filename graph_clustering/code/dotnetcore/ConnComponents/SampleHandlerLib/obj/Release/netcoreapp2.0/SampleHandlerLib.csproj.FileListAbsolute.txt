@@ -38,3 +38,11 @@
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/obj/Release/netcoreapp2.0/SampleHandlerLib.AssemblyInfo.cs
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/obj/Release/netcoreapp2.0/SampleHandlerLib.dll
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/obj/Release/netcoreapp2.0/SampleHandlerLib.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/bin/Release/netcoreapp2.0/SampleHandlerLib.deps.json
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/bin/Release/netcoreapp2.0/SampleHandlerLib.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/bin/Release/netcoreapp2.0/SampleHandlerLib.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/obj/Release/netcoreapp2.0/SampleHandlerLib.csproj.CoreCompileInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/obj/Release/netcoreapp2.0/SampleHandlerLib.AssemblyInfoInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/obj/Release/netcoreapp2.0/SampleHandlerLib.AssemblyInfo.cs
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/obj/Release/netcoreapp2.0/SampleHandlerLib.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/ConnComponents/SampleHandlerLib/obj/Release/netcoreapp2.0/SampleHandlerLib.pdb

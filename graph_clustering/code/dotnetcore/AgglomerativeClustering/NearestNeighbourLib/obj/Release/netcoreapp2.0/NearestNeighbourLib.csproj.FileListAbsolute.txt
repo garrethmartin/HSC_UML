@@ -38,3 +38,11 @@
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/obj/Release/netcoreapp2.0/NearestNeighbourLib.AssemblyInfo.cs
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/obj/Release/netcoreapp2.0/NearestNeighbourLib.dll
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/obj/Release/netcoreapp2.0/NearestNeighbourLib.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/bin/Release/netcoreapp2.0/NearestNeighbourLib.deps.json
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/bin/Release/netcoreapp2.0/NearestNeighbourLib.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/bin/Release/netcoreapp2.0/NearestNeighbourLib.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/obj/Release/netcoreapp2.0/NearestNeighbourLib.csproj.CoreCompileInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/obj/Release/netcoreapp2.0/NearestNeighbourLib.AssemblyInfoInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/obj/Release/netcoreapp2.0/NearestNeighbourLib.AssemblyInfo.cs
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/obj/Release/netcoreapp2.0/NearestNeighbourLib.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/NearestNeighbourLib/obj/Release/netcoreapp2.0/NearestNeighbourLib.pdb

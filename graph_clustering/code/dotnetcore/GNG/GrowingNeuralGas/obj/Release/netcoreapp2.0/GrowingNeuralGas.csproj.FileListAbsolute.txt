@@ -55,3 +55,15 @@
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/obj/Release/netcoreapp2.0/GrowingNeuralGas.csproj.CopyComplete
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/obj/Release/netcoreapp2.0/GrowingNeuralGas.dll
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/obj/Release/netcoreapp2.0/GrowingNeuralGas.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/bin/Release/netcoreapp2.0/GrowingNeuralGas.deps.json
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/bin/Release/netcoreapp2.0/GrowingNeuralGas.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/bin/Release/netcoreapp2.0/GrowingNeuralGas.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/bin/Release/netcoreapp2.0/CsvParser.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/bin/Release/netcoreapp2.0/CsvParser.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/obj/Release/netcoreapp2.0/GrowingNeuralGas.csprojAssemblyReference.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/obj/Release/netcoreapp2.0/GrowingNeuralGas.csproj.CoreCompileInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/obj/Release/netcoreapp2.0/GrowingNeuralGas.AssemblyInfoInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/obj/Release/netcoreapp2.0/GrowingNeuralGas.AssemblyInfo.cs
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/obj/Release/netcoreapp2.0/GrowingNeuralGas.csproj.CopyComplete
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/obj/Release/netcoreapp2.0/GrowingNeuralGas.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/GrowingNeuralGas/obj/Release/netcoreapp2.0/GrowingNeuralGas.pdb

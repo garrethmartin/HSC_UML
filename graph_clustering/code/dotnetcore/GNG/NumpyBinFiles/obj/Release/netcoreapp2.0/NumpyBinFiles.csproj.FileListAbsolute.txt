@@ -40,3 +40,12 @@
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/obj/Release/netcoreapp2.0/NumpyBinFiles.AssemblyInfo.cs
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/obj/Release/netcoreapp2.0/NumpyBinFiles.dll
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/obj/Release/netcoreapp2.0/NumpyBinFiles.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/bin/Release/netcoreapp2.0/NumpyBinFiles.deps.json
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/bin/Release/netcoreapp2.0/NumpyBinFiles.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/bin/Release/netcoreapp2.0/NumpyBinFiles.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/obj/Release/netcoreapp2.0/NumpyBinFiles.csprojAssemblyReference.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/obj/Release/netcoreapp2.0/NumpyBinFiles.csproj.CoreCompileInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/obj/Release/netcoreapp2.0/NumpyBinFiles.AssemblyInfoInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/obj/Release/netcoreapp2.0/NumpyBinFiles.AssemblyInfo.cs
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/obj/Release/netcoreapp2.0/NumpyBinFiles.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/GNG/NumpyBinFiles/obj/Release/netcoreapp2.0/NumpyBinFiles.pdb

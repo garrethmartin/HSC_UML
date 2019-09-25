@@ -27,13 +27,23 @@ parser.add_argument('-ng', '--gng', action='store_true', help='Perform growing n
 parser.add_argument('-hc', '--h_cluster', action='store_true', help='Perform heirarchical clustering step')
 parser.add_argument('-cc', '--conn_comps', action='store_true', help='Perform connected component step')
 parser.add_argument('-gt', '--galaxy_train', action='store_true', help='Perform k-means clustering on galaxy feature vectors and produce catalogues')
+parser.add_argument('-mg', '--montage', action='store_true', help='Create html montage of galaxy images')
+parser.add_argument('-kc', '--k_cluster', type=float, default=10, help='Number of clusters to use for the montage step')
+
 args = parser.parse_args()
 
 files = glob.glob(args.img_names)
 
-run_classify(args.base_dir, data_dir, files, bounds, bands, output_id=output_id,
-             patch_folder=patch_folder, patch_size=patch_size, nodes=nodes,
-             clustering_target=clusters, threads=threads, metric=metric, n_samples=n_samples,
-             iterations=iterations,patch_extraction=True, parallel_extract=True,
-             GNG_model=True, hierarchical_clustering=True,
-             connected_components=True, group_train=True)
+run_classify(dir_base=args.base_dir, dir_data=args.data_dir, files=args.img_names, file_list=args.img_list,
+             bounds=args.bounds, bounds_list=args.bounds, bands=args.bands,
+             output_id=args.out_id, patch_folder=args.patch_dir, patch_size=args.patch_size,
+             nodes=args.n_nodes, clustering_target=args.HC_target, threads=args.n_threads,\
+             metric=args.metric, n_samples=args.n_samples, iterations=args.n_iterations,
+             patch_extraction=args.extract,
+             parallel_extract=args.parallel,
+             GNG_model=args.gng,
+             hierarchical_clustering=args.h_cluster,
+             connected_components=args.conn_comps,
+             group_train=args.galaxy_train,
+	     make_montage=args.montage,
+	     k=args.k)
