@@ -4,3 +4,4 @@ astropy
 configobj
 sklearn
 joblib
+matplotlib

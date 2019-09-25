@@ -113,3 +113,15 @@ example/graph_clustering/*
 example/images
 example/HSC_example
 example/graph_clustering
+
+*.FileListAbsolute.txt
+*.deps.json
+*.assets.json
+*.dgspec.json
+*.dev.json
+*.deps.json
+*.cache
+*.targets
+*.props
+*.pdb
+*.dll
