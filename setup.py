@@ -11,7 +11,7 @@ import platform
 
 # Package meta-data.
 NAME = 'graph_clustering'
-DESCRIPTION = 'Clusters objects found in a list of astronomical images by their visual similarity'
+DESCRIPTION = 'Clusters objects found in astronomical images by their visual similarity'
 URL = 'https://github.com/garrethmartin/HSC_UML'
 EMAIL = 'g.martin4@herts.ac.uk'
 AUTHOR = 'garrethmartin'
