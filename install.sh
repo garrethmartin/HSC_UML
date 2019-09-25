@@ -11,7 +11,7 @@ dotnet build --configuration Release
 cd ../AgglomerativeClustering
 dotnet build --configuration Release
 
-cd ../dotnetcore/GNG
+cd ../GNG
 dotnet build --configuration Release
 
 cd ../ConnComponents
