@@ -89,3 +89,20 @@ First install dotnetcore SDK, then run:
 
 
 #### Importing the package
+
+      from graph_clustering import run_classify
+      >>> run_classify(dir_base=dir_base, dir_data=dir_data, files=files, bounds=bounds,
+                       bands=bands, output_id=output_id, patch_folder=patch_folder,
+                       patch_size=patch_size, nodes=nodes, clustering_target=clusters,
+                       threads=threads, metric=metric, n_samples=n_samples,
+                       iterations=iterations,patch_extraction=True, parallel_extract=True,
+                       GNG_model=True, hierarchical_clustering=True,
+                       connected_components=True, group_train=True)
+                    
+     >>> run_classify(dir_base=dir_base, dir_data=dir_data, **file_list=file_list**, **bounds_list=bounds_list**,
+                      bands=bands, output_id=output_id, patch_folder=patch_folder,
+                      patch_size=patch_size, nodes=nodes, clustering_target=clusters,
+                      threads=threads, metric=metric, n_samples=n_samples,
+                      iterations=iterations,patch_extraction=True, parallel_extract=True,
+                      GNG_model=True, hierarchical_clustering=True,
+                      connected_components=True, group_train=True)
