@@ -3,9 +3,11 @@
 ## Update history
 
 *September 2019*: - HSC DR1 UDEEP catalogue added
+                  - Code w/ examples added
 
-*Near future*: - Add DR2 DEEP/UDEEP catalogues with varying *k* - Add
-code to run the algorithm w/ examples and documentation
+*Near future*: - Add DR2 DEEP/UDEEP catalogues with varying *k* 
+               - Add better documentation
+               - Update the script to produce more user friendly catalogues
 
 -----
 
@@ -113,3 +115,5 @@ or build from source
              group_train=True,
              make_montage=True,
              k=k)
+             
+See example folder for working example with HSC data
