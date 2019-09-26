@@ -116,4 +116,4 @@ or build from source
              make_montage=True,
              k=k)
              
-See example folder for working example with HSC data
+See [***example***](https://github.com/garrethmartin/HSC_UML/tree/master/example "example script") folder for working example with HSC data
