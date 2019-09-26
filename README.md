@@ -11,7 +11,7 @@
 
 -----
 
-## Reference: [Martin 2019b]()
+## Reference: [Martin 2019b](https://ui.adsabs.harvard.edu/abs/2019arXiv190910537M/abstract)
 
 ## Contact: <garrethmartin@arizona.edu>
 
@@ -33,7 +33,7 @@ score is output.
   - sklearn
   - joblib
   - matplotlib
-  - [dotnetcore SDK]()
+  - [dotnetcore SDK](https://dotnet.microsoft.com/download "dotnetcore")
 
 ## Installation on Python 2.7 (3 not tested):
 
