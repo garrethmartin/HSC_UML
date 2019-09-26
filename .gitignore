@@ -110,9 +110,11 @@ venv.bak/
 example/images/*
 example/HSC_example/*
 example/graph_clustering/*
+example/output_montage/*
 example/images
 example/HSC_example
 example/graph_clustering
+example/output_montage
 
 *.FileListAbsolute.txt
 *.deps.json

@@ -27,6 +27,10 @@ parser.add_argument('-ng', '--gng', action='store_true', help='Perform growing n
 parser.add_argument('-hc', '--h_cluster', action='store_true', help='Perform heirarchical clustering step')
 parser.add_argument('-cc', '--conn_comps', action='store_true', help='Perform connected component step')
 parser.add_argument('-gt', '--galaxy_train', action='store_true', help='Perform k-means clustering on galaxy feature vectors and produce catalogues')
+parser.add_argument('-mg', '--montage', action='store_true', help='Create html montage of galaxy images')
+parser.add_argument('-kc', '--k_cluster', type=float, default=10, help='Number of clusters to use for the montage step')
+parser.add_argument('-mt', '--montage', action='store_true', help='Make montage of galaxy images')
+
 args = parser.parse_args()
 
 files = glob.glob(args.img_names)
@@ -41,4 +45,7 @@ run_classify(dir_base=args.base_dir, dir_data=args.data_dir, files=args.img_name
              GNG_model=args.gng,
              hierarchical_clustering=args.h_cluster,
              connected_components=args.conn_comps,
-             group_train=args.galaxy_train)
+             group_train=args.galaxy_train,
+	     make_montage=args.montage,
+	     k=args.k)
+             make_montage=args.montage)

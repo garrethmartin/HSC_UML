@@ -65,3 +65,17 @@
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/obj/Release/netcoreapp2.0/AgglomLib.csproj.CopyComplete
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/obj/Release/netcoreapp2.0/AgglomLib.dll
 /home/garreth/Dropbox/Code/ML_catalogues/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/obj/Release/netcoreapp2.0/AgglomLib.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/bin/Release/netcoreapp2.0/AgglomLib.deps.json
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/bin/Release/netcoreapp2.0/AgglomLib.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/bin/Release/netcoreapp2.0/AgglomLib.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/bin/Release/netcoreapp2.0/Config.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/bin/Release/netcoreapp2.0/CSVParser.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/bin/Release/netcoreapp2.0/Config.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/bin/Release/netcoreapp2.0/CSVParser.pdb
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/obj/Release/netcoreapp2.0/AgglomLib.csprojAssemblyReference.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/obj/Release/netcoreapp2.0/AgglomLib.csproj.CoreCompileInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/obj/Release/netcoreapp2.0/AgglomLib.AssemblyInfoInputs.cache
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/obj/Release/netcoreapp2.0/AgglomLib.AssemblyInfo.cs
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/obj/Release/netcoreapp2.0/AgglomLib.csproj.CopyComplete
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/obj/Release/netcoreapp2.0/AgglomLib.dll
+/dat/garreth/test/HSC_UML/example/graph_clustering/code/dotnetcore/AgglomerativeClustering/AgglomLib/obj/Release/netcoreapp2.0/AgglomLib.pdb

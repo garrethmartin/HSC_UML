@@ -12,10 +12,10 @@ dir_data = 'HSC_example'
 dir_base = '.'
 output_id = 1
 patch_folder = 'ps'
-patch_size = 10
+patch_size = 6
 nodes = 15000
 iterations=150000
-clusters = 800
+clusters = 500
 threads = 14
 n_samples = 500000
 metric = 'pspearson'
@@ -50,6 +50,12 @@ run_classify(dir_base=dir_base, dir_data=dir_data, files=files, bounds=bounds,
              bands=bands, output_id=output_id, patch_folder=patch_folder,
              patch_size=patch_size, nodes=nodes, clustering_target=clusters,
              threads=threads, metric=metric, n_samples=n_samples,
-             iterations=iterations,patch_extraction=True, parallel_extract=True,
-             GNG_model=True, hierarchical_clustering=True,
-             connected_components=True, group_train=True)
+             iterations=iterations,
+             patch_extraction=True,
+             parallel_extract=True,
+             GNG_model=True,
+             hierarchical_clustering=True,
+             connected_components=True,
+             group_train=True,
+             make_montage=True,
+             k=70)
