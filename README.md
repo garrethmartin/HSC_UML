@@ -96,3 +96,20 @@ or build from source
     -mg, --montage        Create html montage of galaxy images
     -kc K_CLUSTER, --k_cluster K_CLUSTER
                           Number of clusters to use for the montage step
+
+### By importing the package
+
+    from graph_clustering import run_classify
+    >>> run_classify(dir_base=dir_base, dir_data=dir_data, files=files, bounds=bounds,
+             bands=bands, output_id=output_id, patch_folder=patch_folder,
+             patch_size=patch_size, nodes=nodes, clustering_target=clusters,
+             threads=threads, metric=metric, n_samples=n_samples,
+             iterations=iterations,
+             patch_extraction=True,
+             parallel_extract=True,
+             GNG_model=True,
+             hierarchical_clustering=True,
+             connected_components=True,
+             group_train=True,
+             make_montage=True,
+             k=k)
