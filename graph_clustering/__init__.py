@@ -29,7 +29,8 @@ def run_classify(dir_base=None, dir_data=None, files=None, file_list=None,
                  connected_components=False,
                  group_train=False,
                  make_montage=False,
-                 k=28,
+                 all_steps=False,
+                 k=30,
                  ignore=[None]):
     """
     Clusters objects found in a list of astronomical images by their visual similarity.
@@ -62,6 +63,14 @@ def run_classify(dir_base=None, dir_data=None, files=None, file_list=None,
             f = np.loadtxt(bounds_list, dtype=int)
             f = f.tolist()
             bounds = [f[i * 4:(i + 1) * 4] for i in range((len(f) + 4 - 1) // 4 )]
+            
+    if all_steps:
+        patch_extraction=True,
+        GNG_model=True, 
+        hierarchical_clustering=True,
+        connected_components=True,
+        group_train=True,
+        make_montage=True,
 
     # Make directory if needed
     print('-----------------')
