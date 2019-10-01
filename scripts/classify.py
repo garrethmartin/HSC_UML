@@ -49,5 +49,4 @@ run_classify(dir_base=args.base_dir, dir_data=args.data_dir, files=args.img_name
              group_train=args.galaxy_train,
              make_montage=args.montage,
              k=args.k,
-             make_montage=args.montage,
              all_steps=args.all_steps)
