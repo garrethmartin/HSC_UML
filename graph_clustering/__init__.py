@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import os
 
 path = os.path.abspath(__file__)
-code_path = os.path.dirname(path)
+code_path = os.path.name(path)
 
 def run_classify(dir_base=None, dir_data=None, files=None, file_list=None,
                  bounds=None, bounds_list=None,
@@ -47,7 +47,7 @@ def run_classify(dir_base=None, dir_data=None, files=None, file_list=None,
         raise SyntaxError('Specify band names')
 
     if dir_base == '.':
-	dir_base = os.getcwd()
+        dir_base = os.getcwd()
     
     if file_list is not None:
         if files is not None:
@@ -361,7 +361,7 @@ def auto_detect_good(image_data, min_counts=20000., data_min = 0.0, data_max=0.0
 
 def get_file_names(base_dir, dir_data, output_id):
     if base_dir == '.':
-	base_dir = os.getcwd()
+        base_dir = os.getcwd()
     f = np.genfromtxt(base_dir+'/'+dir_data+'/'+'image_files_'+str(output_id)+'.txt', dtype=str,
                       skip_header=True, delimiter=',')
     sky_id = np.int32(f[:,1])
@@ -386,7 +386,7 @@ def get_file_names(base_dir, dir_data, output_id):
 
 def get_object_catalogue(base_dir, dir_data, output_id):
     if base_dir == '.':
-	base_dir = os.getcwd()
+        base_dir = os.getcwd()
     dir_hists = glob.glob(base_dir+'/'+dir_data+'/model'+str(output_id)+'/conncomps/object_counts_*')
     for i, hists in enumerate(dir_hists):
         hist_data_i = np.loadtxt(hists, delimiter=',')
@@ -425,7 +425,7 @@ def similarity_search(hist_data, target_id, metric='euclidean'):
 
 def plot_bound(base_dir, files, object_ids, y_cents, x_cents, img_pix = 64, bounds=None, plot_in_bounds=False, norm_data=None, shape=None, number=False):
     if base_dir == '.':
-	base_dir = os.getcwd()
+        base_dir = os.getcwd()
     n_obj = len(object_ids)
     n_square = np.int32(np.ceil(np.sqrt(n_obj)))
     if bounds != None: N_bound, S_bound, W_bound, E_bound = bounds
@@ -527,7 +527,7 @@ def illustrate_similarity(base_dir, files, image_id, id_test, hist_data, N_bound
     
 def get_groups(base_dir, dir_data, output_id, obj_id, image_id, cross_match=True, k=40):
     if base_dir == '.':
-	base_dir = os.getcwd()
+        base_dir = os.getcwd()
     group_files = glob.glob(base_dir+'/'+dir_data+'/model'+str(output_id)+'/galtrain/kmeans_classifications_labels_'+str(k)+'*')
     silhouette_files = glob.glob(base_dir+'/'+dir_data+'/model'+str(output_id)+'/galtrain/kmeans_silhouette_values_'+str(k)+'*')
     groupings = np.loadtxt(group_files[0], delimiter=',')
@@ -589,7 +589,7 @@ def select_tiles_HSC(fields, bands=['G', 'R', 'Z'], HSC_dir='/HSC_rerun/DM-10404
 def output_montage(base_dir, files, img_output_dir, group_id, groups_matched, silhouette_score, image_id, N_bound, S_bound, W_bound, E_bound,
                   y_cent, x_cent):
     if base_dir == '.':
-	base_dir = os.getcwd()
+        base_dir = os.getcwd()
     matches_group = np.where(groups_matched == group_id)[0]
     print('Processing group '+str(group_id)+' with '+str(len(matches_group))+' objects...')
     if not os.path.exists(img_output_dir+'group_'+str(group_id)):
